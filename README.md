@@ -105,7 +105,7 @@ The application also displays the held-out test accuracy.
 ## Notes
 
 Run `main.py` again whenever the dataset or preprocessing code changes so that the saved model is updated.
-Run `streamlit run app.py` 
+
 
 ## 🚀 Live Demo
 You can try the live application here: [SpamShield Live App]https://optimized-spam-detector-iurswlvyfzgnnupumycjhe.streamlit.app/)
